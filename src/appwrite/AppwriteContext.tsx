@@ -1,3 +1,4 @@
+import {View, Text} from 'react-native';
 import React, {FC, createContext} from 'react';
 
 import Appwrite from './service';
